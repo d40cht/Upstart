@@ -117,10 +117,7 @@ span.divbottom {
   font-style: italic;
   color: #aaa;
 
-  position:absolute;
   width: 100%;
-  bottom: 45px;
-  left: 0px;
 }
 
 div.header-progress {
