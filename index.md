@@ -1,6 +1,6 @@
 ---
 title: Upstart
-layout: post
+layout: default
 ---
 
 ## Upstart
