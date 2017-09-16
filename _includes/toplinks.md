@@ -1,3 +1,4 @@
+* [Home](index.html)
 * [Shop](shop.html)
 * [Commissions](commissions.html)
 * [Past work](past_work.html)
