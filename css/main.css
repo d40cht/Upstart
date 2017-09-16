@@ -111,7 +111,7 @@ div.header h1 {
   margin-bottom: -6px;
 }
 
-span.divbottom {
+div.toplinks {
   font-family: 'Sorts Mill Goudy', serif;
   font-size: x-large;
   font-style: italic;
@@ -120,13 +120,11 @@ span.divbottom {
   width: 100%;
 }
 
-div.header-progress {
-  position:absolute;
-  opacity: 0.9;
-  width: 100%;
-  bottom: -5px;
-  left: 0px;
+div.toplinks ul > li {
+  display: inline-block;
+  display: inline;
 }
+
 
 div.header img {
   margin: 0px;
