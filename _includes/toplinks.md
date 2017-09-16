@@ -1,7 +1,7 @@
-* Shop
-* Commissions
-* Past work
-* About
-* Press
-* Blog
-* Contact
+* [Shop](shop.md)
+* [Commissions](commissions.md)
+* [Past work](past_work.md)
+* [About](about.md)
+* [Press](press.md)
+* [Blog](blog.md)
+* [Contact](contact.md)
