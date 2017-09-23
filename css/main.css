@@ -7,14 +7,15 @@ body {
 
 a {
   text-decoration: none;
+  color: #259fb1;
 }
 
 a:hover {
-  color: #d88;
+  color: #056f81;
 }
 
-a:link, a:visited {
-  color: #88d;
+a:visited {
+  color: #058fa1;
 }
 
 img {
@@ -96,6 +97,7 @@ div.header {
 }
 
 h1, h2, h3, h4 {
+  color: #058fa1;
 }
 
 h1 {
