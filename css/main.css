@@ -86,6 +86,7 @@ div.header {
 }
 
 h1, h2, h3, h4 {
+  font-variant: small-caps;
   color: #058fa1;
 }
 
@@ -101,6 +102,7 @@ div.header h1 {
 }
 
 div.toplinks {
+  font-variant: small-caps;
   font-size: large;
   width: 100%;
   margin: 8px 0px 8px 0px;
