@@ -102,6 +102,7 @@ div.header h1 {
 }
 
 div.toplinks {
+  font-weight: bold;
   font-variant: small-caps;
   font-size: large;
   width: 100%;
