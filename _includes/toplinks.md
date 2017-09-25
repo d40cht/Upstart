@@ -3,6 +3,5 @@
 * [Commissions](commissions.html)
 * [Past work](past_work.html)
 * [About](about.html)
-* [Press](press.html)
 * [Blog](blog.html)
 * [Contact](contact.html)
