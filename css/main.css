@@ -38,6 +38,17 @@ img.floatleft {
   overflow: hidden;
 }
 
+div.thumbgrid p {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0px;
+}
+
+div.thumbgrid p > img {
+  flex: 1;
+  object-fit: contain;
+  justify-content: space-between;
+}
 
 div.outer {
   max-width: 1000px;
@@ -57,7 +68,6 @@ div.header {
   overflow: hidden;
   position: relative;
 }
-
 
 h1 {
   font-weight: normal;
