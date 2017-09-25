@@ -53,8 +53,7 @@ div.thumbgrid p > img {
 }
 
 div.outer {
-  max-width: 1000px;
-  padding-bottom: 10px;
+  width: 1000px;
   background-color: #ffffff;
   margin-bottom: 15px;
   margin-left: auto;
