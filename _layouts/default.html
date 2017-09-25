@@ -4,7 +4,7 @@
     <link href="css/main.css" rel="stylesheet">
     <link href="images/favicon.ico" rel="shortcut icon">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600' rel='stylesheet' type='text/css'>
-    <link href="http://yui.yahooapis.com/pure/0.5.0/pure-min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
     <title>UpstArt</title>
   <head>
 
@@ -23,30 +23,9 @@
     </div>
     
     <div class="content-wrapper">
-      <div class="side-bar">
-        <h1>Links</h1>
-        {% capture sidebar %}{% include sidelinks.md %}{% endcapture %}
-        {{ sidebar | markdownify }}
-      </div>
-
-      <div class="content">
         <h1>{{page.title}}</h1>
 
         {{content}}
-      </div>
-
-      <div class="blog-bar">
-        <h1>News</h1>
-
-        <ul>
-          {% for post in site.posts %}
-            <li>
-              <a href="{{ post.url }}">{{ post.title }}</a>
-              {{ post.excerpt }}
-            </li>
-          {% endfor %}
-        </ul>
-      </div>
     </div>
 
     <hr>

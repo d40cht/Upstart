@@ -1,11 +1,20 @@
 
 body {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 14px;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 21px;
   color: #666666;
+  line-height: 1.4em;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Open Sans', sans-serif;
+  font-variant: small-caps;
+  color: #058fa1;
 }
 
 a {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
   text-decoration: none;
   color: #257f91;
 }
@@ -40,44 +49,8 @@ div.outer {
 }
 
 div.content-wrapper {
-  display: flex;
-  flex-direction: row;
-  line-height: 20px;
 }
 
-div.side-bar {
-  flex: 3 0 0;
-  padding: 0 18px 0 0;
-}
-
-div.side-bar ul, div.register-button {
-  padding-left: 30px;
-}
-
-div.side-bar ul ul {
-  padding-left: 20px;
-}
-
-div.content {
-  flex: 12 0 0;
-}
-
-div.blog-bar {
-  flex: 4 0 0;
-  padding: 0 0 0 18px;
-}
-
-div.blog-bar ul {
-  padding: 0;
-}
-
-div.blog-bar li {
-  margin: 0;
-  padding: 6px 0;
-  list-style: none;
-  clear: both;
-  border-top: solid 1px #ddd;
-}
 
 div.header {
   text-align: center;
@@ -85,10 +58,6 @@ div.header {
   position: relative;
 }
 
-h1, h2, h3, h4 {
-  font-variant: small-caps;
-  color: #058fa1;
-}
 
 h1 {
   font-weight: normal;
@@ -128,58 +97,4 @@ div.footer {
   margin-top: 10px;
   text-align: center;
   font-size: small;
-}
-table {
-  color:#666;
-  font-size:12px;
-  text-shadow: 1px 1px 0px #fff;
-  background:#eaebec;
-  margin:20px;
-  border:#ccc 1px solid;
-}
-table th {
-  padding:21px 25px 22px 25px;
-  border-top:1px solid #fafafa;
-  border-bottom:1px solid #e0e0e0;
-
-  background: #ededed;
-}
-table th:first-child {
-  text-align: left;
-  padding-left:20px;
-}
-table tr:first-child th:first-child {
-  border-top-left-radius:3px;
-}
-table tr:first-child th:last-child {
-  border-top-right-radius:3px;
-}
-table tr {
-  text-align: center;
-  padding-left:20px;
-}
-table td:first-child {
-  text-align: left;
-  padding-left:20px;
-  border-left: 0;
-}
-table td {
-  padding:8px;
-  border-top: 1px solid #ffffff;
-  border-bottom:1px solid #e0e0e0;
-  border-left: 1px solid #e0e0e0;
-
-  background: #fafafa;
-}
-table tr.even td {
-  background: #f6f6f6;
-}
-table tr:last-child td {
-  border-bottom:0;
-}
-table tr:last-child td:first-child {
-  border-bottom-left-radius:3px;
-}
-table tr:last-child td:last-child {
-  border-bottom-right-radius:3px;
 }
