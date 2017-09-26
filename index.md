@@ -6,9 +6,7 @@ layout: default
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 <div class="thumbgrid" markdown="1">
-![Pair of matching vases](images/page_images/red_blue_vase_pair_thumb.jpg)
-![Tall blue vase](images/page_images/vase_tall_blue_thumb.jpg)
-![Vase with flowers](images/page_images/vase_flowers_thumb.jpg)
+![Three chairs](images/page_images/three_chairs_small.jpg)
 </div>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
