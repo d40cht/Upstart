@@ -1,5 +1,5 @@
 * [Home](index.html)
-* [Shop](shop.html)
+* [Studio/Gallery](shop.html)
 * [Commissions](commissions.html)
 * [Past work](past_work.html)
 * [About](about.html)
