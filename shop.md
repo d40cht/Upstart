@@ -1,5 +1,0 @@
----
-title: Shop
-layout: default
----
-
