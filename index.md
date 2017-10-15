@@ -5,15 +5,12 @@ layout: default
 
 ## Upcycling, Art and Craft
 
-(*TODO: Welcome page about the shop.*)
-
+*Under construction: Studio/Gallery to open at the end of October/beginning of November.*
 
 <div class="thumbgrid" markdown="1">
 ![Three chairs](images/page_images/three_chairs_small.jpg)
 </div>
 
-
-(*TODO: Images of work in the studio.*)
 
 <div class="thumbgrid" markdown="1">
 ![Pair of matching vases](images/page_images/red_blue_vase_pair_thumb.jpg)
