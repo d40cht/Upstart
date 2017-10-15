@@ -1,8 +1,8 @@
 ---
-title: Makers
+title: Artists
 layout: default
 ---
-# Makers
+# Artists
 
 ## Dymph
 

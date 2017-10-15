@@ -7,6 +7,10 @@ body {
   background-color: #edeff0;
 }
 
+address {
+  font-style: normal;
+}
+
 h1, h2, h3, h4 {
   font-family: 'Open Sans', sans-serif;
   font-variant: small-caps;
