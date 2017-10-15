@@ -11,6 +11,7 @@ layout: default
 ![Three chairs](images/page_images/three_chairs_small.jpg)
 </div>
 
+<br>
 
 <div class="thumbgrid" markdown="1">
 ![Pair of matching vases](images/page_images/red_blue_vase_pair_thumb.jpg)
