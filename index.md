@@ -26,7 +26,7 @@ I look forward to welcome you into the shop/studio.
 
 
 
-*Under construction: Studio/Gallery to open at the end of October/beginning of November.*
+
 
 <div class="thumbgrid" markdown="1">
 ![Three chairs](images/page_images/three_chairs_small.jpg)
