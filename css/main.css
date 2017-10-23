@@ -83,9 +83,10 @@ div.header h1 {
 }
 
 div.toplinks {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
   font-weight: bold;
   font-variant: small-caps;
-  font-size: large;
   width: 100%;
   margin: 8px 0px 8px 0px;
 }
