@@ -21,5 +21,7 @@ The following artists/makers have work for sale in UpstArt (apart from me (## Dy
 
 Alex: I hope to send one photo of each artist's work. They should be next to the name.
 
+I used ## to get the names big but I see all is in big letters. Could I have only the names big and bold please.
+
 
 
