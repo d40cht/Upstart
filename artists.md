@@ -4,7 +4,7 @@ layout: default
 ---
 # Artists
 
-The following artists/makers have work for sale in UpstArt (apart from me *Dymphna Hermans*: https://www.pinterest.co.uk/dymphnahermans/my-fabric-decoupage-projects/):
+Apart from me, *[Dymphna Hermans](https://www.pinterest.co.uk/dymphnahermans/my-fabric-decoupage-projects)*, the following artists/makers have work for sale in UpstArt:
 
 ## Alison Oudeboom
 
