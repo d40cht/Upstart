@@ -23,8 +23,7 @@ I look forward to welcoming you into the shop/studio.
 <br>
 
 <div class="thumbgrid" markdown="1">
-![Pair of matching vases](images/page_images/red_blue_vase_pair_thumb.jpg)
-![Tall blue vase](images/page_images/vase_tall_blue_thumb.jpg)
-![Vase with flowers](images/page_images/vase_flowers_thumb.jpg)
+![Shop Interior](images/page_images/shop_interior.jpg)
+![Blue Jug](images/page_images/blue_jug.jpg)
 </div>
 
