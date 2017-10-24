@@ -1,10 +1,13 @@
 
 body {
-  font-family: 'Oxygen', sans-serif;
-  font-size: 19px;
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
   line-height: 1.4em;
   margin: 0px;
+  color: #2a2a2a;
   background-color: #edeff0;
+  -webkit-font-smoothing: antialiased;
 }
 
 address {
@@ -12,7 +15,8 @@ address {
 }
 
 h1, h2, h3, h4 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Yantramanav', sans-serif;
+  font-weight: 500;
   font-variant: small-caps;
   color: #058fa1;
 }
@@ -87,9 +91,9 @@ div.header h1 {
 }
 
 div.toplinks {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 24px;
-  font-weight: bold;
+  font-family: 'Yantramanav', sans-serif;
+  font-size: 28px;
+  font-weight: 500;
   font-variant: small-caps;
   width: 100%;
   margin: 8px 0px 8px 0px;
