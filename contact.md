@@ -3,7 +3,7 @@ title: Contact
 layout: default
 ---
 
-The workshop, where I create all fabric decoupage objects, and the shop are based in the centre of St Just in Penwith, on the corner of The Square and Market Street. Free parking is available at Lafrowda car park, a two minute walk from the studio/shop. We are open Thursday to Sundays between 11am and 5pm.
+The workshop, where I create all fabric decoupage objects, and the shop are based in the centre of St Just in Penwith, on the corner of The Square and Market Street. Free parking is available at Lafrowda car park, a two minute walk from the studio/shop. We are open Wednesdays to Saturdays between 11am and 5pm.
 
 <table style="width:100%">
 <tr>
